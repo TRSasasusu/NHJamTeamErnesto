@@ -3,6 +3,9 @@
   "DialogueDictionary": {
     // Esker
     "Hey, hatchling! Good to see you're finally awake.": "おはよう、ひよっ子！やっと目を覚ましたか。",
-    "It looks to me like you're confused about what's going on. A lot happened while you were asleep!": "何が起こっているのか混乱しているな。お前が寝ている間に色々なことがあった！"
+    "It looks to me like you're confused about what's going on. A lot happened while you were asleep!": "何が起こっているのか混乱しているな。お前が寝ている間に本当にたくさんのことがあったんだ！",
+    "Try <![CDATA[<color=orange>talking to the others down on the surface</color>]]>. Maybe that will help you catch up on what happened.": "<![CDATA[<color=orange>地上で皆と話しておいで。</color>]]>何が起きたのか色々教えてくれるだろう。",
+    "See that large clump of trees at the bottom of the planet? That's where they set up camp.": "あの惑星の北側に大きな木立が見えるだろう？あそこが私たちのキャンプ地だ。",
+    "Speak to <![CDATA[<color=orange>Rutile</color>]]>, they'll know what to do.": "<![CDATA[<color=orange>Rutile</color>]]>と話すといい。村長なら何をすべきか知っているだろう。"
   }
 }
