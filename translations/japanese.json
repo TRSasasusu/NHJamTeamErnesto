@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+  "DialogueDictionary": {
+    // Esker
+    "Hey, hatchling! Good to see you're finally awake.": "おはよう、ひよっ子！やっと目を覚ましたか。",
+    "It looks to me like you're confused about what's going on. A lot happened while you were asleep!": "何が起こっているのか混乱しているな。お前が寝ている間に色々なことがあった！"
+  }
+}
