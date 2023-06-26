@@ -1,16 +1,30 @@
 {
   "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+  "UIDictionary": {
+    "Layered Lagoon": "礁の積層",
+    "Spark": "閃光",
+    "Twilight Frost": "薄明の霜柱",
+    "Smoldering Gulch": "燻る谷"
+  },
   "DialogueDictionary": {
     // Esker
     "Hey, hatchling! Good to see you're finally awake.": "おはよう、ひよっ子！やっと目を覚ましたか。",
-    "It looks to me like you're confused about what's going on. A lot happened while you were asleep!": "何が起こっているのか混乱しているな。お前が寝ている間に本当にたくさんのことがあったんだ！",
+    "It looks to me like you're confused about what's going on. A lot happened while you were asleep!": "何が起きているのか混乱しているな。お前が寝ている間に本当にたくさんのことがあったんだ！",
     "Try <![CDATA[<color=orange>talking to the others down on the surface</color>]]>. Maybe that will help you catch up on what happened.": "<![CDATA[<color=orange>地上で皆と話しておいで。</color>]]>何が起きたのか色々教えてくれるだろう。",
     "See that large clump of trees at the bottom of the planet? That's where they set up camp.": "あの惑星の北側に大きな木立が見えるな？あそこが私たちのキャンプ地だ。",
     "Speak to <![CDATA[<color=orange>Rutile</color>]]>, they'll know what to do.": "<![CDATA[<color=orange>Rutile</color>]]>と話すといい。村長なら何をすべきか知っているさ。",
+
     // Gossan
-    "We borrowed your ship while you were sleeping, hatchling. Hope you don't mind.": "ひよっ子、お前が寝ている間に船を借りさせてもらったんだ。悪く思わないでくれよ。",
+    "We borrowed your ship while you were sleeping, hatchling. Hope you don't mind.": "ひよっ子、寝ている間にお前の探査艇を借りさせてもらっていた。悪く思わないでくれよ。",
     "Don't worry! Slate is keeping an eye on it at the <![CDATA[<color=orange>north pole camp</color>]]>.": "それに心配はいらない！<![CDATA[<color=orange>北極にあるキャンプ地</color>]]>でSlateがそいつを見張ってる。",
     "The ship you're in now was made out of old mining equipment back on Timber Hearth. I have no idea how Slate made this thing fly.": "私たちが今乗っているこの船は木の炉辺のあの古い鉱山装置から作られた。まったくSlateはどうやってこいつを飛ばしたのか、私には見当がつかないよ。",
-    "Anyway, the others are probably waiting on you. The camp is just a <![CDATA[<color=orange>quick spacewalk</color>]]> away!": "ともかく、皆、お前を待っているだろう。キャンプ地までは<![CDATA[<color=orange>ちょっとした宇宙遊泳</color>]]>ですぐだ！"
+    "Anyway, the others are probably waiting on you. The camp is just a <![CDATA[<color=orange>quick spacewalk</color>]]> away!": "ともかく、皆、お前を待っているだろう。キャンプ地までは<![CDATA[<color=orange>ちょっとした宇宙散歩</color>]]>ですぐだ！",
+
+    // Rutile
+    "Hello, hatchling!": "やあ、ひよっ子！",
+    "Where are we?": "私たちはどこにいる？",
+    "What's going on?": "何が起きているんだ？",
+    "I'm going to go look around.": "周りを見てくるよ。",
+    "We're on <![CDATA[<color=orange>Layered Lagoon</color>]]>, located a few hundred kilometers away from the <![CDATA[<color=orange>Outer Wilds</color>]]>.": "私たちは<![CDATA[<color=orange>Layered Lagoon</color>]]>にいる。ここは私たちのOuter Wildsから数百キロメートル離れたところだ。"
   }
 }
