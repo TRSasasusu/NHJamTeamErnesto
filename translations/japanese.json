@@ -34,7 +34,7 @@
 
     // Marl
     "Rutile put me in charge of planting the trees around our camp.": "Rutileが私にキャンプ周辺の植樹を任せてきたんだ。",
-    "It's not really my kind of thing, but that's alright. More trees means more chances to chop them down!": "そんなことまったく私の趣味じゃないが、まあいいか。木が増えれば、それだけ切り倒すチャンスも増えるというものだ！",
+    "It's not really my kind of thing, but that's alright. More trees means more chances to chop them down!": "そんなことまったく私の好みじゃないが、まあいいか。木が増えれば、それだけ切り倒すチャンスも増えるというものだ！",
 
     // Gneiss
     "Don't tell anyone I told you this, but I'm working on a new instrument for you.": "このことはまだ他の者には内緒だけれど、ひよっ子用の新しい楽器を作っているんだ。",
@@ -43,7 +43,7 @@
     // Slate
     "Hey, hatchling. Sorry you never had your grand launch day. I know how important that was to you.": "やあ、ひよっ子。盛大な打ち上げの日を迎えられなかったのは残念に思っている。お前にとってどれだけ大切なことだったか知っているからな。",
     "But with how frantic Chert was yelling, we decided we had to leave pretty quick.": "だが、Chertがまるで緊張病になったかのように叫ぶものだから、私たちはすぐに出発することにしたんだ。",
-    "But hey, I just finished repairing and cleaning your ship. It's ready to fly!": "それにこの通り、お前の探査艇の修理と清掃はちょうど終わったところだ。いつでも飛び立てる！",
+    "But hey, I just finished repairing and cleaning your ship. It's ready to fly!": "それにこの通り、お前の探査艇の修理と手入れはちょうど終わったところだ。いつでも飛び立てる！",
     "I did notice that there were some oddities with your ship log, though. I couldn't make heads or tails of it. Have you been modifying the ship without telling me?": "ところでお前の航行記録に奇妙な点があった。私にはどうにも理解できなかった。私に黙って探査艇を改造していたのか？",
 
     // Feldspar
@@ -52,6 +52,37 @@
     "I'll be honest, it's weird being back here with all of you. I've spent so long flying around the Outer Wilds that I forgot how nice it is to share a song with Gneiss.": "正直に言うと、ここに戻って皆と一緒にいるのは変な感じがする。OuterWildsで長いこと飛び回っていたから、Gneissと曲を分かち合うことがどんなに素敵なことか忘れていたよ。",
     "Or a marshmallow with Slate.": "それに、Slateとともに囲むマシュマロも、だな。",
     "I'll rest for a while, but then I'll be ready to take off again.": "それでも、少しの間休んだらまた飛び立とうと思う。",
-    "After all, it's not every day the sun rises on a new horizon.": "結局のところ、新たな地平線から太陽が昇るのは毎日というわけではないということだ。"
+    "After all, it's not every day the sun rises on a new horizon.": "結局のところ、新たな地平線から太陽が昇るのは毎日というわけではないということだ。",
+
+    // Hal
+    "Hey, hatchling! We've detected an unusual signal from a nearby celestial body, so we sent Riebeck to investigate.": "やあ、お前か！先ほど近くの天体から異常な信号が検出されたので、Riebeckを調査に行かせたところなんだ。",
+    "What is it?": "それは何だろう？",
+    "Where is it coming from?": "どの天体から検出されたんだ？",
+    "We don't know yet, but what we DO know is that it's Nomai in origin! Isn't that wild?": "まだ不明だが、わかっているのはNomai由来ということだ！ワイルドじゃないか？",
+    "Here we are in a completely different solar system, and still the Nomai have left their mark.": "ここで私たちはまったく別の星系にいるが、それでもNomaiはその痕跡を残している。",
+    "Do you still have that translator tool? Perhaps you could <![CDATA[<color=orange>go give Riebeck a hand</color>]]>?": "まだあの翻訳機は持っているよな？もしかしたら<![CDATA[<color=orange>Riebeckに手を貸せるd</color>]]>かもしれない。",
+    "You know how to find them.": "あいつを見つける方法は知っているだろうし。",
+    "It seems to be coming from the <![CDATA[<color=orange>large blue planet</color>]]>. We can't seem to pinpoint it closer than that.": "<![CDATA[<color=orange>大きなあの青白い惑星</color>]]>からだ。それ以上はここからだと特定できないな。",
+
+    // Porphy
+    "The children wouldn't stop pestering me about dinner, so I told them to play the quiet game.": "子どもたちが夜ごはんのことでうるさいから、静かにするゲームをするように言ってるんだ。",
+    "Works every time.": "これが毎回うまくいくんだよ。",
+
+    // Hornfels
+    "Good to see you, hatchling.": "会えてよかった、ひよっ子。",
+    "I'm pretty exhausted. Slate and I have been trying to keep an entire fleet of ships flying all day.": "私は本当に疲れてしまった。Slateと私でずっとすべての船を飛ばし続けていたんだ。",
+    "I'll work on this for a little while longer, then I'll find a nice sleeping bag to crawl into.": "あともう少しこれに取り組んだら、いい寝袋を見つけて潜り込むことにするよ。",
+
+    // Moraine
+    "I've been pointing my Signalscope at different objects in this solar system. They don't sing like any of the planets at home do.": "この星系の色々なものにシグナルスコープを向けてみたけれど、私たちの星系の惑星のように歌うことはなかったんだ。",
+    "Although, Hal found a strange signal coming from another planet earlier.": "でも、Halがさっきどこかの惑星から変な信号が出てるのを見つけたんだ。",
+    "You can go ask them about it.": "聞けば教えてくれると思う。",
+
+    // Spinel
+    "I'll be honest with you, hatchling, I did not bring enough fishing line to reach the water below.": "正直に言おう、ひよっ子よ、私は下の水面に届くほどの釣り糸を持ってきていなかったんだ。",
+    "I just don't want to help set up camp.": "つまり、キャンプの準備を手伝いたくないだけだ。",
+
+    // Tektite
+    "Don't bother Tuff. They're trying to get into these ruins.": "Tuffの邪魔をしないでやってくれ。あいつはこの遺跡に何とか入ろうとしているんだ。"
   }
 }
