@@ -55,14 +55,14 @@
     "After all, it's not every day the sun rises on a new horizon.": "結局のところ、新たな地平線から太陽が昇るのは毎日というわけではないということだ。",
 
     // Hal
-    "Hey, hatchling! We've detected an unusual signal from a nearby celestial body, so we sent Riebeck to investigate.": "やあ、お前か！先ほど近くの天体から異常な信号が検出されたので、Riebeckを調査に行かせたところなんだ。",
+    "Hey, hatchling! We've detected an unusual signal from a nearby celestial body, so we sent Riebeck to investigate.": "やあ、お前か！先ほど近くの天体から異常な信号が検出されたから、Riebeckを調査に行かせたところなんだ。",
     "What is it?": "それは何だろう？",
     "Where is it coming from?": "どの天体から検出されたんだ？",
     "We don't know yet, but what we DO know is that it's Nomai in origin! Isn't that wild?": "まだ不明だが、わかっているのはNomai由来ということだ！ワイルドじゃないか？",
     "Here we are in a completely different solar system, and still the Nomai have left their mark.": "ここで私たちはまったく別の星系にいるが、それでもNomaiはその痕跡を残している。",
-    "Do you still have that translator tool? Perhaps you could <![CDATA[<color=orange>go give Riebeck a hand</color>]]>?": "まだあの翻訳機は持っているよな？もしかしたら<![CDATA[<color=orange>Riebeckに手を貸せるd</color>]]>かもしれない。",
+    "Do you still have that translator tool? Perhaps you could <![CDATA[<color=orange>go give Riebeck a hand</color>]]>?": "まだあの翻訳機は持っているよな？もしかしたら<![CDATA[<color=orange>Riebeckに手を貸せる</color>]]>かもしれない。",
     "You know how to find them.": "あいつを見つける方法は知っているだろうし。",
-    "It seems to be coming from the <![CDATA[<color=orange>large blue planet</color>]]>. We can't seem to pinpoint it closer than that.": "<![CDATA[<color=orange>大きなあの青白い惑星</color>]]>からだ。それ以上はここからだと特定できないな。",
+    "It seems to be coming from the <![CDATA[<color=orange>large blue planet</color>]]>. We can't seem to pinpoint it closer than that.": "<![CDATA[<color=orange>大きなあの白い惑星</color>]]>からだ。それ以上はここからだと特定できないな。",
 
     // Porphy
     "The children wouldn't stop pestering me about dinner, so I told them to play the quiet game.": "子どもたちが夜ごはんのことでうるさいから、静かにするゲームをするように言ってるんだ。",
@@ -83,6 +83,35 @@
     "I just don't want to help set up camp.": "つまり、キャンプの準備を手伝いたくないだけだ。",
 
     // Tektite
-    "Don't bother Tuff. They're trying to get into these ruins.": "Tuffの邪魔をしないでやってくれ。あいつはこの遺跡に何とか入ろうとしているんだ。"
+    "Don't bother Tuff. They're trying to get into these ruins.": "Tuffの邪魔をしないでやってくれ。あいつはこの遺跡に何とか入ろうとしているんだ。",
+
+    // layered_ruins_text
+    "CEDRUS: We require some means of imparting energy to the experiment to establish initial stability. A key to wind it up of per-say.": "CEDRUS:初期安定性を確立するために、その実験にはエネルギーを与えるための何らかの手段が必要。つまり、引き上げるための鍵よ。",
+    "MIACEAE: That key will need to be charged. What means of doing so would function best?": "MIACEAE:その鍵はチャージしなくてはならない。どのような方法が最適だろうか？",
+    "CANARAE: A singularity would work. However, we would need some means of moving it to and from the desired location.": "CANARAE:特異点が使えるかもしれないぞ。ただし、そいつをどうにかして望んだ場所へ移動させなくちゃならない。",
+    "MIACEAE: Hypothesis: the raft we found on our previous warp would function well for this purpose.": "MIACEAE:仮説:前のワープで見つけたイカダがその目的に使えるかもしれない。",
+
+    // clocktower_text_outside
+    "CANARAE: I have unfortunate news my friends, the experiment has failed.": "CANARAE:残念な知らせだ。実験は失敗した。",
+    "CANARAE: My measurements indicate that stability is decreasing but my instruments lack accuracy. We need some means of more accurately measuring the time remaining.": "CANARAE:俺の測定は安定性の低下を示している。もっとも、この計測器では精度が足りない。残り時間をより正確に測れるものが必要だ。",
+    "CEDRUS: I can begin construction of such a measuring device immediately. Perhaps a clock tower would be aesthetically pleasing.": "CEDRUS:そういう計測器ならすぐにでも建設を始められるわ。時計塔のような見た目にすると美しさの観点からもいいかもしれない。",
+    "MIACEAE: While I appreciate your eye for aesthetics Cedrus, remember that speed of construction is key. Helian and the rest of the clan are eager to move on, particularly if there is a risk of destabilization.": "MIACEAE:Cedrusの美的センスには感謝しているが、建設スピードが重要であることはどうか忘れないでほしい。Helianをはじめとして私たちの部族の他の者たちは、特に不安定化のリスクがある場合には、ここを離れることを望んでいる。",
+
+    // clocktower_text_top
+    "CEDRUS: We have confirmation. Solar stability is indeed decreasing, albeit at a slow rate. Spark will go supernova in a few weeks.": "CEDRUS:確認できたわ。太陽としての安定性はゆっくりとした速さではあるけれど、確実に低下してる。閃光は数週間以内に超新星になるわ。",
+    "MIACEAE: Perhaps we could restabilize the system at regular intervals. However, doing so would require the clan to remain here indefinitely.": "MIACEAE:定期的にシステムを再安定化させることはできるかもしれない。だけど、そうするにはこの部族はずっとここに留まることになってしまう。",
+    "MIACEAE: We would do well to broadcast our results to the other clans, Bromi. Though we may not have succeeded, what we have learned here may still be of some use. If we do restabilize the system, electromagnetic interference will prevent signals from being sent or received while we remain nearby.": "MIACEAE:私たちの成果は他の部族に広めるべきだろう、Bromi。成功したとはいえないかもしれないが、ここで学んだことはまだ役に立つかもしれない。それにもしシステムを再安定化させたとしても、電磁波の干渉によってこの近くにいる限り、信号を送受信することはできなくなってしまう。",
+    "CANARAE: The rate at which supernovas are occuring continues to increase. Solar stabilization must be solved quickly before no more suitable stars remain.": "CANARAE:超新星の発生率は増加の一途をたどっている。適切な星がなくなる前に、太陽の安定化は早急に解決しなければならない。",
+    "MIACEAE: It is time to move onwards. There is a festival shortly in the Blackrock system. Perhaps one of the other clans has found a solution.": "MIACEAE:そろそろ先へ進むときだ。もうすぐ黒き岩の星系で祝祭が行われる。もしかしたら他の部族で何か解決策が見つかっているかもしれない。",
+
+    // gas_giant_text
+    "CANARAE: These small-scale prototypes are proving promising. There is barely a sensation of heat when approaching them, although there is quite an electrical shock if not properly insulated.": "CANARAE:この小型プロトタイプは有望だ。しっかり絶縁されてなければかなりの電気ショックを食らうことになるが、近づいてもほとんど熱さを感じない。",
+    "HELIAN: Cedrus will ensure the key provides the needed insulation, though it will not protect an entire shuttle. Will we soon be ready to apply the same properties to Spark itself?": "HELIAN:鍵はシャトル全体を保護することはできないものの、必要な絶縁は保証してくれるとCedrusが言っていた。閃光自体に同じ特性を適用することはすぐにできるのか？",
+    "CANARAE: Very likely. Though I do not envy the one of us who will have to make the first trip into its core.": "CANARAE:ああおそらくな。とはいえ、俺たちのうち、あのコアへ初めての旅行をするようなやつを羨ましいと思うことはないだろう。",
+
+    // sun_computer
+    "Solar key detected. Transferring energy...": "太陽の鍵を検出しました。エネルギー転送中…",
+    "Energy transferred. Solar stability restored. Estimated duration until destabilization: 57 years.": "エネルギー転送完了しました。太陽の安定性が回復しました。不安定化までの推定期間:57年",
+    "Proceed forwards and enter the singularity to return to Layered Lagoon.": "そのまま前進して特異点に入り、水上の浮島へお帰りください。"
   }
 }
