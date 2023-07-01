@@ -10,7 +10,7 @@
     // Esker
     "Hey, hatchling! Good to see you're finally awake.": "おはよう、ひよっ子！やっと目を覚ましたか。",
     "It looks to me like you're confused about what's going on. A lot happened while you were asleep!": "何が起きているのか混乱しているな。お前が寝ている間に本当にたくさんのことがあったんだ！",
-    "Try <![CDATA[<color=orange>talking to the others down on the surface</color>]]>. Maybe that will help you catch up on what happened.": "<![CDATA[<color=orange>地上で皆と話しておいで。</color>]]>何が起きたのか色々教えてくれるだろう。",
+    "Try <![CDATA[<color=orange>talking to the others down on the surface</color>]]>. Maybe that will help you catch up on what happened.": "<![CDATA[<color=orange>地上で皆と話しておいで</color>]]>。何が起きたのか色々教えてくれるだろう。",
     "See that large clump of trees at the bottom of the planet? That's where they set up camp.": "あの惑星の北側に大きな木立が見えるな？あそこが私たちのキャンプ地だ。",
     "Speak to <![CDATA[<color=orange>Rutile</color>]]>, they'll know what to do.": "<![CDATA[<color=orange>Rutile</color>]]>と話すといい。村長なら何をすべきか知っているさ。",
 
@@ -105,6 +105,22 @@
     "They landed on Timber Hearth in panic and Hal signaled all of the travelers to come back. Even Feldspar came. We thought they were dead!": "Chertはパニックになって木の炉辺へ向かい、それからHalはすべての旅人に戻ってくるよう信号を送った。なんとFeldsparさえも戻ってきた。死んでしまったのだと思ってた！",
     "Anyways, you're probably better off asking Chert themselves. I think they're on that <![CDATA[<color=orange>gas giant</color>]]> we're orbiting.": "とりあえず、Chert本人に聞くのがいいと思う。私たちが周回しているあの<![CDATA[<color=orange>巨大ガス惑星</color>]]>にいるはずだから。",
     "Don't fall into the sulfuric acid! I've heard it doesn't feel very good.": "硫酸には落ちないで！あんまり気分のいいものではないはずだから。",
+
+    // Chert
+    "Hatchling, you're awake! I'm a bit surprised you found me all the way out here.": "ひよっ子、起きたか！こんなところまで来て私を見つけるとは、少し驚いたよ。",
+    "Anything I can do for you?": "何か用があるのか？",
+    "Why are you out here?": "なぜここに？",
+    "Do you know anything about a warning message?": "あの警告メッセージについて知ってる？",
+    //"I'm going to take a look around.": "周りを見てくるよ。", // duplicated
+    "I know! Pretty crazy planet, isn't it? I personally prefer somewhere with a better view of the night sky.": "そうだな！かなり狂った惑星だろう？個人的には夜空がもっとよく見える場所がよかった。",
+    "Although, it's not every day that I get to <![CDATA[<color=orange>study a star this closely</color>]]>.": "とはいえ、これほど<![CDATA[<color=orange>間近に恒星を研究できる</color>]]>機会はそうそうないんだ。",
+    "Look around if you don't know what I'm talking about.": "もし私の言っているものが何なのかわからないなら、周りを見てくるといい。",
+    "A warning message? You could say that. I received a garbled message that seemed to be coming from <![CDATA[<color=orange>inside of Ash Twin</color>]]>.": "警告メッセージ？そうとも言えるな。おそらく<![CDATA[<color=orange>灰の双子星内部</color>]]>から来たのであろう不明瞭なメッセージを私は受信した。",
+    "A lot of the transmission was lost, but I heard one thing in particular:": "伝送された内容の多くは失われていたものの、そのうち特に1つのことが聞こえた:",
+    "\"Our sun is about to go supernova!\"": "\"我々の太陽が超新星になろうとしている！\"",
+    "Chilling, I know. Whoever sent that message must be able to see into the future, because after I ran the tests I discovered that the warning was true.": "ゾッとした。そのメッセージを送った人物は未来を見通せるに違いない。なぜなら、私が分析してみたところ、その警告が事実であるとわかったからだ。",
+    "I just hope the same doesn't happen here.": "ここで同じことが起こらないことを願うばかりだよ。",
+    "Stay safe!": "気をつけて！",
 
     // layered_ruins_text
     "CEDRUS: We require some means of imparting energy to the experiment to establish initial stability. A key to wind it up of per-say.": "CEDRUS:初期安定性を確立するために、その実験にはエネルギーを与えるための何らかの手段が必要。つまり、ブーストするためのカギよ。",
