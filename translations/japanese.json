@@ -4,7 +4,11 @@
     "Layered Lagoon": "水上の浮島",
     "Spark": "閃光",
     "Twilight Frost": "薄明の氷柱",
-    "Smoldering Gulch": "煙る谷"
+    "Smoldering Gulch": "煙る谷",
+
+    "WARNING: SULFURIC ACID DETECTED": "注意：付近で硫酸を検出",
+    "Experiment Results": "実験結果",
+    "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file.": "2023 New Horizons modding jamで作られたMOD、Evacuationをダウンロードしていただきありがとうございます！既存のセーブファイルでそのままプレイしてください。"
   },
   "DialogueDictionary": {
     // Esker
@@ -94,10 +98,10 @@
     "I'm going to take a look around.": "周りを見てくるよ。",
     "Well, the first thing I learned is that this planet is very scary.": "ええと、まずわかったことは、この惑星はとても恐ろしいということだ。",
     "The second thing I learned is that it is filled with <![CDATA[<color=orange>sulfuric acid</color>]]>, which is also very scary. The acid is <![CDATA[<color=orange>falling</color>]]> though, which is nice. Must be all the geysers launching it into orbit.": "2番目にわかったことは、ここは<![CDATA[<color=orange>硫酸</color>]]>で満たされているということだ。これは本当に恐ろしい。それでも、この酸が<![CDATA[<color=orange>下がってきている</color>]]>のはいいことだ。間欠泉が酸を軌道上に乗せているに違いない。",
-    "Thirdly, I found a Nomai <![CDATA[<color=orange>clock tower</color>]]> on the other side. Quite fascinating!": "三番目に、Nomaiの<![CDATA[<color=orange>時計塔</color>]]>を反対側に見つけた。すごく魅力的だ！",
+    "Thirdly, I found a Nomai <![CDATA[<color=orange>clock tower</color>]]> on the other side. Quite fascinating!": "3番目に、Nomaiの<![CDATA[<color=orange>時計塔</color>]]>を反対側に見つけた。すごく魅力的だ！",
     "I didn't go inside, because... well... it's scary.": "中には入ってない…だって…恐いから。",
     "The tower on the other side of the moon? Obviously it's designed to keep time.": "この星の反対側にある塔だね？明らかにあれは時を刻むように設計されている。",
-    "The real question is this: WHY did they need to keep track of the time? Was it just to measure the passage of time? Were they counting down to something?": "すると真に次の疑問が浮かぶ:&lt;i%gt;なぜ&lt;/i&gt;彼らは時間を計測する必要があったのだろう？単に時間の経過を知りたかっただけなのか？それとも、何かをカウントダウンしていたのだろうか？",
+    "The real question is this: WHY did they need to keep track of the time? Was it just to measure the passage of time? Were they counting down to something?": "すると真に次の疑問が浮かぶ:&lt;i&gt;なぜ&lt;/i&gt;彼らは時間を計測する必要があったのだろう？単に時間の経過を知りたかっただけなのか？それとも、何かをカウントダウンしていたのだろうか？",
     "That's the funny thing about the passage of time, <![CDATA[<color=orange>it makes it easy to forget</color>]]>. I know I never remember anything unless I <![CDATA[<color=orange>write it down</color>]]>.": "時間の経過というのは面白いもので、<![CDATA[<color=orange>簡単に忘れてしまう</color>]]>。<![CDATA[<color=orange>書き残して</color>]]>おかない限り、何も思い出せなくなるものなんだ。",
     "Wow, that sounded very profound.": "うわぁ、とても深遠な響きだ。",
     "Maybe I should write that down...": "書き残しておこうかな…。",
@@ -115,10 +119,10 @@
     "I know! Pretty crazy planet, isn't it? I personally prefer somewhere with a better view of the night sky.": "そうだな！かなり狂った惑星だろう？個人的には夜空がもっとよく見える場所がよかった。",
     "Although, it's not every day that I get to <![CDATA[<color=orange>study a star this closely</color>]]>.": "とはいえ、これほど<![CDATA[<color=orange>間近に恒星を研究できる</color>]]>機会はそうそうないんだ。",
     "Look around if you don't know what I'm talking about.": "もし私の言っているものが何なのかわからないなら、周りを見てくるといい。",
-    "A warning message? You could say that. I received a garbled message that seemed to be coming from <![CDATA[<color=orange>inside of Ash Twin</color>]]>.": "警告メッセージ？そうとも言えるな。おそらく<![CDATA[<color=orange>灰の双子星内部</color>]]>から来たのであろう不明瞭なメッセージを私は受信した。",
+    "A warning message? You could say that. I received a garbled message that seemed to be coming from <![CDATA[<color=orange>inside of Ash Twin</color>]]>.": "警告メッセージ？そうとも言えるな。おそらく<![CDATA[<color=orange>灰の双子星内部</color>]]>から来たのであろう要領を得ないメッセージを私は受信した。",
     "A lot of the transmission was lost, but I heard one thing in particular:": "伝送された内容の多くは失われていたものの、そのうち特に1つのことが聞こえた:",
     "\"Our sun is about to go supernova!\"": "\"我々の太陽が超新星になろうとしている！\"",
-    "Chilling, I know. Whoever sent that message must be able to see into the future, because after I ran the tests I discovered that the warning was true.": "ゾッとした。そのメッセージを送った人物は未来を見通せるに違いない。なぜなら、私が分析してみたところ、その警告が事実であるとわかったからだ。",
+    "Chilling, I know. Whoever sent that message must be able to see into the future, because after I ran the tests I discovered that the warning was true.": "ゾッとした。そのメッセージを送った人物は未来を見通せるに違いない。なぜなら、私が検査してみたところ、その警告が事実であるとわかったからだ。",
     "I just hope the same doesn't happen here.": "ここで同じことが起こらないことを願うばかりだよ。",
     "Stay safe!": "気をつけて！",
 
@@ -137,7 +141,7 @@
     // clocktower_text_top
     "CEDRUS: We have confirmation. Solar stability is indeed decreasing, albeit at a slow rate. Spark will go supernova in a few weeks.": "CEDRUS:確認できたわ。太陽としての安定性はゆっくりとした速さではあるけれど、確実に低下してる。閃光は数週間以内に超新星になるわ。",
     "MIACEAE: Perhaps we could restabilize the system at regular intervals. However, doing so would require the clan to remain here indefinitely.": "MIACEAE:定期的にシステムを再安定化させることはできるかもしれない。だけど、そうするにはこの部族はずっとここにとどまることになってしまう。",
-    "MIACEAE: We would do well to broadcast our results to the other clans, Bromi. Though we may not have succeeded, what we have learned here may still be of some use. If we do restabilize the system, electromagnetic interference will prevent signals from being sent or received while we remain nearby.": "MIACEAE:私たちの成果は他の部族に広めるべきだろう、Bromi。成功したとはいえないかもしれないが、ここで学んだことはまだ役に立つかもしれない。それにもしシステムを再安定化させたとしても、電磁波の干渉によってこの近くにいる限り、信号を送受信することはできなくなってしまう。",
+    "MIACEAE: We would do well to broadcast our results to the other clans, Bromi. Though we may not have succeeded, what we have learned here may still be of some use. If we do restabilize the system, electromagnetic interference will prevent signals from being sent or received while we remain nearby.": "MIACEAE:私たちの成果は他の部族に広めるべきだろう、Bromiのところとか。成功したとはいえないかもしれないが、ここで学んだことはまだ役に立つかもしれない。それにもしシステムを再安定化させたとしても、電磁波の干渉によってこの近くにいる限り、信号を送受信することはできなくなってしまう。",
     "CANARAE: The rate at which supernovas are occuring continues to increase. Solar stabilization must be solved quickly before no more suitable stars remain.": "CANARAE:超新星の発生率は増加の一途をたどっている。適切な星がなくなる前に、太陽の安定化は早急に解決しなければならない。",
     "MIACEAE: It is time to move onwards. There is a festival shortly in the Blackrock system. Perhaps one of the other clans has found a solution.": "MIACEAE:そろそろ先へ進むときだ。もうすぐ黒き岩の星系で祝祭が行われる。もしかしたら他の部族で何か解決策が見つかっているかもしれない。",
 
@@ -149,6 +153,55 @@
     // sun_computer
     "Solar key detected. Transferring energy...": "太陽のカギを検出しました。エネルギー転送中…",
     "Energy transferred. Solar stability restored. Estimated duration until destabilization: 57 years.": "エネルギー転送完了しました。太陽の安定性が回復しました。不安定化までの推定期間:57年",
-    "Proceed forwards and enter the singularity to return to Layered Lagoon.": "そのまま前進して特異点に入り、水上の浮島へお帰りください。"
+    "Proceed forwards and enter the singularity to return to Layered Lagoon.": "そのまま前進して特異点に入り、水上の浮島へお帰りください。",
+
+    // End
+    "Thank you for playing <![CDATA[<color=#fffb00>Evacuation!</color>]]>": "Thank you for playing <![CDATA[<color=#fffb00>Evacuation!</color>]]>",
+    "This mod was developed by Team Ernesto which consists of Texture_Turtle, Samster86, and Walker. It was made as part of the 2023 New Horizons modding jam.": "このMODは、Texture_Turtle、Samster86、WalkerからなるチームErnestoにより開発されました。これは2023 New Horizons modding jamの中で作られたものです。",
+    "This is the end of the mod. We hope you had fun!": "このMODはここで終了です。楽しんでいただけたなら幸いです！"
+  },
+  "ShipLogDictionary": {
+    // layered_log
+    "Solar Key": "太陽のカギ",
+    "Experiment Key": "実験のカギ",
+    "A Nomai key is being charged somewhere by a white hole.": "ホワイトホールを通してどこからかチャージされているNomaiのカギ。",
+    "A Nomai key of some sort is contained beyond the white hole.": "ホワイトホールの向こうにはNomaiのカギのようなものがある。",
+    "White Hole Ruins": "ホワイトホールの遺跡",
+    "A set of Nomai ruins with the entrance blocked by a white hole.": "入口がホワイトホールでふさがれたNomaiの遺跡。",
+    "The Nomai constructed a key to charge their experiment. A Nomai named Canarae proposed using a singularity moved using a raft to do so.": "Nomaiは彼らの実験にチャージするためのカギを作った。Canaraeという名のNomaiは、イカダを使って特異点を移動させることを提案した。",
+
+    // acid_log
+    "Clock Tower": "時計塔",
+    "A large Nomai clock tower jutting out of the acidic surface.": "大きなNomaiの時計塔が酸の表面から突き出るように建っている。",
+    "A Nomai experiment failed. A Nomai named Cedrus constructed a clock tower to track the time until the experiment's stability was lost.": "Nomaiの実験は失敗した。Cedrusという名のNomaiは、実験の安定性が失われるまでの時間を計測するために時計塔を建設した。",
+    "The purpose of the experiment was to stabilize this system's star. A Nomai named Miaceae believed they could manually restore stability at regular intervals but that doing so would require constant vigilance.": "実験の目的はこの星系の太陽を安定化させることだった。Miaceaeという名のNomaiは、定期的に手動で安定性を回復させることができると信じていた。しかし、そのためには常に警戒している必要があるという。",
+
+    // gas_log
+    "Sun Models": "太陽の模型",
+    "Three small suns orbit beneath the cloud layer.": "雲の下を3つの小さな太陽が周回している。",
+    "A Nomai named Canarae claimed that the small suns are safe to approach if one is insulated against electricity. A Nomai named Cedrus would construct a key with insulating properties but it would not protect an entire ship. The Nomai intended to soon apply this process to Spark itself.": "Canaraeという名のNomaiは、絶縁すれば小さな太陽に近づいても安全だと主張した。Cedrusという名のNomaiは、船全体を守ることはできないものの絶縁効果のあるカギを作った。Nomaiはこの方法を閃光自体にもすぐ適用するつもりだった。",
+
+    // glitched_log
+    "Unknown Signal": "未知の信号",
+    "Forgetful": "忘却",
+    "Esker said I should talk to other Hearthians at the north pole camp to jog my memory.": "記憶を呼び覚ますために北極のキャンプ地にいる他のHearthianたちと話すべきだとEskerは言った。",
+    "<![CDATA[<Color=#00ff43>]]>Data Entry Restored:<![CDATA[</Color>]]> I detected a signal on an unknown frequency when I pointed my signalscope at a particular section of the sky. The signal is in nomaian. I'm taking it to Hal to translate.": "<![CDATA[<Color=#00ff43>]]>回復したデータ:<![CDATA[</Color>]]>シグナルスコープを空のある部分に向けたとき、私は未知の周波数の信号を検知した。その信号はNomaiのものであった。Halに翻訳してもらうよう頼んだ。",
+    "<![CDATA[<Color=#00ff43>]]>Data Entry Restored:<![CDATA[</Color>]]> The message carried by the signal describes a Nomai experiment in another solar system. Something about stabilizing stars!": "<![CDATA[<Color=#00ff43>]]>回復したデータ:<![CDATA[</Color>]]>その信号が伝えるメッセージには、別の太陽系でのNomaiの実験について記述されていた。太陽を安定化させる何かについてだ！",
+    "ATP Manipulation": "灰の双子星プロジェクトを操作",
+    "Confused": "困惑",
+    "I seem to be remembering. I think something happened at the Hourglass Twins but what?": "私は思い出してきている。砂時計の双子星で何かあったような気がするが、何だろうか？",
+    "<![CDATA[<Color=#00ff43>]]>Data Entry Restored:<![CDATA[</Color>]]> I found some controls for the Ash Twin Project accessible using a Nomai staff. They contain options for the quantity of information sent back in time.": "<![CDATA[<Color=#00ff43>]]>回復したデータ:<![CDATA[</Color>]]>Nomaiの杖を使ってアクセスできる灰の双子星プロジェクトの制御装置を見つけた。そこには、過去に送る情報の量を決めるオプションがあった。",
+    "<![CDATA[<Color=#00ff43>]]>Data Entry Restored:<![CDATA[</Color>]]> By reducing the amount of information sent by the Ash Twin Project, I can increase the amount of time it is sent back by!": "<![CDATA[<Color=#00ff43>]]>回復したデータ:<![CDATA[</Color>]]>灰の双子星プロジェクトから送られる情報の量を減らすことで、より遠い過去へ情報を送ることが可能となる！",
+    "A Plan": "プラン",
+    "What did I do?": "私は何をした？",
+    "I remember that I sent the message to Chert, but why can't I remember other details?": "私はメッセージをChertに送ったことは思い出した。だが、なぜ他の詳細を思い出せないのだろうか？",
+    "<![CDATA[<Color=#00ff43>]]>Data Entry Restored:<![CDATA[</Color>]]> I have come up with a plan. I don't know how intact these logs will remain but I'm writing them anyways because if my plan succeeds, I will almost certainly forget what happened.": "<![CDATA[<Color=#00ff43>]]>回復したデータ:<![CDATA[</Color>]]>私はあるプランを思いついた。このログがどの程度無傷で残るかはわからない。だが、このプランが成功すれば、私は何が起きたのかほぼ間違いなく忘れてしまうだろうから、とにかくここに書いておく。",
+    "<![CDATA[<Color=#00ff43>]]>Data Entry Restored:<![CDATA[</Color>]]> I'm going to set the Ash Twin Project to send as strong a signal as I can make as far back in time as possible, warning about the sun's explosion. In order to get that extra energy, I'm not going to be able to remember that last few loops. Hopefully Chert will pick up the signal and warn the others. Maybe they can evacuate towards that Nomai signal I picked up. I hope...": "<![CDATA[<Color=#00ff43>]]>回復したデータ:<![CDATA[</Color>]]>可能な限り遠い過去へ、可能な限り強い信号を、灰の双子星プロジェクトが送るようセットするつもりだ。そのための超過したエネルギーを得られるように、直前の数ループ分を思い出せないようにする。うまくいけば、Chertが信号を拾って他の者たちに警告してくれるだろう。もしかしたら、私の拾ったNomaiの信号に向かって避難してくれるかもしれない。そう願っている…。",
+
+    // spark_log
+    "Clockwork Sun": "時計仕掛けの太陽",
+    "Solar Experiment": "太陽実験",
+    "This system's sun was the subject of a Nomai experiment in stabilizing stars.": "この星系の太陽は、恒星を安定化させるためのNomaiの実験対象だった。",
+    "There is a large clockwork Nomai structure at the core of the sun.": "太陽のコアには巨大な時計仕掛けのNomaiの構造物が存在する。"
   }
 }
