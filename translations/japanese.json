@@ -85,9 +85,30 @@
     // Tektite
     "Don't bother Tuff. They're trying to get into these ruins.": "Tuffの邪魔をしないでやってくれ。あいつはこの遺跡に何とか入ろうとしているんだ。",
 
+    // Riebeck
+    "Hello! Good to see you in the air!": "やあ！空の下で会えて嬉しいよ！",
+    "I've explored this moon... a little...": "私はこの衛星を探索してる…少し…",
+    "What have you learned about this planet?": "この惑星について何かわかった？",
+    "What do you think that tower is used for?": "あの塔は何に使われているのだろう？",
+    "What do you know about a warning message?": "あの警告メッセージについて何か知ってる？",
+    "I'm going to take a look around.": "周りを見てくるよ。",
+    "Well, the first thing I learned is that this planet is very scary.": "ええと、まずわかったことは、この惑星はとても恐ろしいということだ。",
+    "The second thing I learned is that it is filled with <![CDATA[<color=orange>sulfuric acid</color>]]>, which is also very scary. The acid is <![CDATA[<color=orange>falling</color>]]> though, which is nice. Must be all the geysers launching it into orbit.": "2番目にわかったことは、ここは<![CDATA[<color=orange>硫酸</color>]]>で満たされているということだ。これは本当に恐ろしい。それでも、この酸が<![CDATA[<color=orange>下がってきている</color>]]>のはいいことだ。間欠泉が酸を軌道上に乗せているに違いない。",
+    "Thirdly, I found a Nomai <![CDATA[<color=orange>clock tower</color>]]> on the other side. Quite fascinating!": "三番目に、Nomaiの<![CDATA[<color=orange>時計塔</color>]]>を反対側に見つけた。すごく魅力的だ！",
+    "I didn't go inside, because... well... it's scary.": "中には入ってない…だって…恐いから。",
+    "The tower on the other side of the moon? Obviously it's designed to keep time.": "この星の反対側にある塔だね？明らかにあれは時を刻むように設計されている。",
+    "The real question is this: WHY did they need to keep track of the time? Was it just to measure the passage of time? Were they counting down to something?": "すると真に次の疑問が浮かぶ:&lt;i%gt;なぜ&lt;/i&gt;彼らは時間を計測する必要があったのだろう？単に時間の経過を知りたかっただけなのか？それとも、何かをカウントダウンしていたのだろうか？",
+    "That's the funny thing about the passage of time, <![CDATA[<color=orange>it makes it easy to forget</color>]]>. I know I never remember anything unless I <![CDATA[<color=orange>write it down</color>]]>.": "時間の経過というのは面白いもので、<![CDATA[<color=orange>簡単に忘れてしまう</color>]]>。<![CDATA[<color=orange>書き残して</color>]]>おかない限り、何も思い出せなくなるものなんだ。",
+    "Wow, that sounded very profound.": "うわぁ、とても深遠な響きだ。",
+    "Maybe I should write that down...": "書き残しておこうかな…。",
+    "I just know that Chert heard a signal coming from inside Ash Twin. Something about a supernova.": "私が知っているのは、Chertが灰の双子星の内部から信号を聞いたことだ。超新星についての何かだったらしい。",
+    "They landed on Timber Hearth in panic and Hal signaled all of the travelers to come back. Even Feldspar came. We thought they were dead!": "Chertはパニックになって木の炉辺へ向かい、それからHalはすべての旅人に戻ってくるよう信号を送った。なんとFeldsparさえも戻ってきた。死んでしまったのだと思ってた！",
+    "Anyways, you're probably better off asking Chert themselves. I think they're on that <![CDATA[<color=orange>gas giant</color>]]> we're orbiting.": "とりあえず、Chert本人に聞くのがいいと思う。私たちが周回しているあの<![CDATA[<color=orange>巨大ガス惑星</color>]]>にいるはずだから。",
+    "Don't fall into the sulfuric acid! I've heard it doesn't feel very good.": "硫酸には落ちないで！あんまり気分のいいものではないはずだから。",
+
     // layered_ruins_text
-    "CEDRUS: We require some means of imparting energy to the experiment to establish initial stability. A key to wind it up of per-say.": "CEDRUS:初期安定性を確立するために、その実験にはエネルギーを与えるための何らかの手段が必要。つまり、引き上げるための鍵よ。",
-    "MIACEAE: That key will need to be charged. What means of doing so would function best?": "MIACEAE:その鍵はチャージしなくてはならない。どのような方法が最適だろうか？",
+    "CEDRUS: We require some means of imparting energy to the experiment to establish initial stability. A key to wind it up of per-say.": "CEDRUS:初期安定性を確立するために、その実験にはエネルギーを与えるための何らかの手段が必要。つまり、ブーストするためのカギよ。",
+    "MIACEAE: That key will need to be charged. What means of doing so would function best?": "MIACEAE:そのカギはチャージしなくてはならない。どのような方法が最適だろうか？",
     "CANARAE: A singularity would work. However, we would need some means of moving it to and from the desired location.": "CANARAE:特異点が使えるかもしれないぞ。ただし、そいつをどうにかして望んだ場所へ移動させなくちゃならない。",
     "MIACEAE: Hypothesis: the raft we found on our previous warp would function well for this purpose.": "MIACEAE:仮説:前のワープで見つけたイカダがその目的に使えるかもしれない。",
 
@@ -99,18 +120,18 @@
 
     // clocktower_text_top
     "CEDRUS: We have confirmation. Solar stability is indeed decreasing, albeit at a slow rate. Spark will go supernova in a few weeks.": "CEDRUS:確認できたわ。太陽としての安定性はゆっくりとした速さではあるけれど、確実に低下してる。閃光は数週間以内に超新星になるわ。",
-    "MIACEAE: Perhaps we could restabilize the system at regular intervals. However, doing so would require the clan to remain here indefinitely.": "MIACEAE:定期的にシステムを再安定化させることはできるかもしれない。だけど、そうするにはこの部族はずっとここに留まることになってしまう。",
+    "MIACEAE: Perhaps we could restabilize the system at regular intervals. However, doing so would require the clan to remain here indefinitely.": "MIACEAE:定期的にシステムを再安定化させることはできるかもしれない。だけど、そうするにはこの部族はずっとここにとどまることになってしまう。",
     "MIACEAE: We would do well to broadcast our results to the other clans, Bromi. Though we may not have succeeded, what we have learned here may still be of some use. If we do restabilize the system, electromagnetic interference will prevent signals from being sent or received while we remain nearby.": "MIACEAE:私たちの成果は他の部族に広めるべきだろう、Bromi。成功したとはいえないかもしれないが、ここで学んだことはまだ役に立つかもしれない。それにもしシステムを再安定化させたとしても、電磁波の干渉によってこの近くにいる限り、信号を送受信することはできなくなってしまう。",
     "CANARAE: The rate at which supernovas are occuring continues to increase. Solar stabilization must be solved quickly before no more suitable stars remain.": "CANARAE:超新星の発生率は増加の一途をたどっている。適切な星がなくなる前に、太陽の安定化は早急に解決しなければならない。",
     "MIACEAE: It is time to move onwards. There is a festival shortly in the Blackrock system. Perhaps one of the other clans has found a solution.": "MIACEAE:そろそろ先へ進むときだ。もうすぐ黒き岩の星系で祝祭が行われる。もしかしたら他の部族で何か解決策が見つかっているかもしれない。",
 
     // gas_giant_text
-    "CANARAE: These small-scale prototypes are proving promising. There is barely a sensation of heat when approaching them, although there is quite an electrical shock if not properly insulated.": "CANARAE:この小型プロトタイプは有望だ。しっかり絶縁されてなければかなりの電気ショックを食らうことになるが、近づいてもほとんど熱さを感じない。",
-    "HELIAN: Cedrus will ensure the key provides the needed insulation, though it will not protect an entire shuttle. Will we soon be ready to apply the same properties to Spark itself?": "HELIAN:鍵はシャトル全体を保護することはできないものの、必要な絶縁は保証してくれるとCedrusが言っていた。閃光自体に同じ特性を適用することはすぐにできるのか？",
-    "CANARAE: Very likely. Though I do not envy the one of us who will have to make the first trip into its core.": "CANARAE:ああおそらくな。とはいえ、俺たちのうち、あのコアへ初めての旅行をするようなやつを羨ましいと思うことはないだろう。",
+    "CANARAE: These small-scale prototypes are proving promising. There is barely a sensation of heat when approaching them, although there is quite an electrical shock if not properly insulated.": "CANARAE:この小型プロトタイプは有望だ。しっかり絶縁されてなければかなりの電気ショックを食らうことになるが、近づいてもほとんど熱を感じない。",
+    "HELIAN: Cedrus will ensure the key provides the needed insulation, though it will not protect an entire shuttle. Will we soon be ready to apply the same properties to Spark itself?": "HELIAN:カギはシャトル全体を保護することはできないものの、必要な絶縁は保証してくれるとCedrusが言っていた。閃光自体に同じ特性を適用することはすぐにできるのか？",
+    "CANARAE: Very likely. Though I do not envy the one of us who will have to make the first trip into its core.": "CANARAE:ああおそらくな。とはいえ、俺たちのうち、あのコアへ初めての旅行をするようなヤツをうらやましいと思うことはないだろう。",
 
     // sun_computer
-    "Solar key detected. Transferring energy...": "太陽の鍵を検出しました。エネルギー転送中…",
+    "Solar key detected. Transferring energy...": "太陽のカギを検出しました。エネルギー転送中…",
     "Energy transferred. Solar stability restored. Estimated duration until destabilization: 57 years.": "エネルギー転送完了しました。太陽の安定性が回復しました。不安定化までの推定期間:57年",
     "Proceed forwards and enter the singularity to return to Layered Lagoon.": "そのまま前進して特異点に入り、水上の浮島へお帰りください。"
   }
